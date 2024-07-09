@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096533653808",
+    "project_id": "gyan-vesh",
+    "storage_bucket": "gyan-vesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096533653808:android:8a3946bedca14bae2a30f5",
+        "android_client_info": {
+          "package_name": "com.example.gyanvesh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQgOknV78ee9jNRneoguuM4eaXVwCQWVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
